@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+/* header {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column: 1 / 2;
+    height: 75px;
+} */
+
+#logo {
+  float: left;
+  margin-top: 7px;
+}
+
+header h1 {
+    display: inline;
+   font-family: 'Lobster', cursive;
+   margin-left: 5px;
+   margin-top: auto;
+   font-style: italic;
+   margin-bottom: auto;
+   font-size: 35px;
+   
+}
+
+#pad{
+    padding-right: 8px;
+}
+
+header span {
+    display: block; 
+    font-size: 10px;
+    text-transform: uppercase;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   /* padding-top: 10px; */
+
+}
+
+footer{
+    background-color: black;
+}
+
+/* body {
+   background-color: gray;
+
+} */
+
+/* header {
+   position: relative;
+   /* bottom: 5px ;
+   background-color: white;
+   height: 75px;
+   width: 100%; */
+   /* top: auto; */
+
+/* } */ 
+
+/* header h1 {
+    position: absolute;
+    font-family: 'Lobster', cursive;
+    margin-left: 50px;
+    font-size: 45px; 
+    margin-top: 5px;
+    /* top: 0px; */
+    
+
+/* } */ 
+
+/* #logo {
+     position: relative; 
+     margin-top: 15px;
+} */
+
+ nav { 
+    margin-top: 20px;
+    float: right;
+
+} 
+
+#bar{
+    width: 500px;
+}
+
+/* header h5 {
+   margin-left:  50px ;
+   font-family: Arial, Helvetica, sans-serif ;
+   text-transform: uppercase;
+   font-size: small;
+   color: grey;
+   margin-top: 5px;
+} */
